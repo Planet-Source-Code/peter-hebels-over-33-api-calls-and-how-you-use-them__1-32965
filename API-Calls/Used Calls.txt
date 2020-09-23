@@ -1,0 +1,62 @@
+The following API-Calls are used in this projects:
+
+In the AllocConsole project:
+1 -AllocConsole
+2 -FreeConsole
+3 -CloseHandle
+4 -GetStdHandle
+5 -WriteConsole
+
+In the AppendMenu project:
+6 -AppendMenu
+7 -GetSystemMenu
+
+In the BitBlt project:
+8 -BitBlt
+
+In the BringwindowtoTop project:
+9 -BringWindowToTop
+
+In the CloseWindow project:
+10 -CloseWindow
+
+In the CopyFile project:
+11 -CopyFile
+
+In the CreateFontIndirect project:
+12 -CreateFontIndirect
+13 -SelectObject
+14 -DeleteObject
+
+In the CreateWindowEx project:
+15 -CreateWindowEx
+16 -DefWindowProc
+17 -PostQuitMessage
+18 -GetMessage
+19 -LoadIcon
+20 -SetWindowLong
+21 -UnregisterClass
+22 -RegisterClass
+23 -GetWindowLong
+24 -TranslateMessage
+25 -DispatchMessage
+26 -ShowWindow
+27 -LoadCursor
+28 -CallWindowProc
+
+In the SetTimer project:
+29 -SetTimer
+30 -KillTimer
+
+In the WritePrivateProfileString project:
+31 -WritePrivateProfileString
+
+In the Shell_NotifyIcon project:
+32 -Shell_NotifyIcon
+
+In the GetPixel project:
+33 -GetPixel
+
+
+Total 33 calls.
+
